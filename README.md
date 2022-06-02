@@ -56,7 +56,7 @@
    <hr />
     
     
-   # Practical  5
+# Practical  5
 
 -   [a) Write a program that displays the color of a circle as red when the mouse button  is pressed and as blue when the mouse button is released.](https://hiren14.github.io/java_lab_050/readme/practical5/practical5a)<br /> <br />
 
@@ -74,8 +74,7 @@
     
    <hr />
     
-    
-   # Practical  6
+# Practical  6
 
 -   [a) Write a program to create a file name 123.txt, if it does not exist. Append a new  data to it if it already exist. write 150 integers created randomly into the file  using Text I/O. Integers are separated by space. ](https://hiren14.github.io/java_lab_050/readme/practical6/practical6a)<br /> <br />
 
@@ -94,7 +93,13 @@
 ## error 404 
 
 it said that file will update in this weekdays 
+<br />
+<hr />
 ### Support or Contact
 [@hiren14](https://github.com/hiren14/)
+<br />
+   <hr />
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)
+   <hr />
