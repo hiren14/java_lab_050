@@ -41,4 +41,5 @@ public class practical2a{
 ![p2a](/output/practica2/output2a.png)
 
 ## License
+
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)
