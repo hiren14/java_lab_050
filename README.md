@@ -8,7 +8,7 @@
     - [c) Write a program that reads a number in meters, converts it to feet, and displays  the result.](https://hiren14.github.io/java_lab_050/readme/practical1/practical1c)<br /><br />
     - [d) Body Mass Index (BMI) is a measure of health on weight. It can be calculated by  taking your weight in kilograms and dividing by the square of your height in  meters. Write a program that prompts the user to enter a weight in pounds and  height in inches and displays the BMI.Note:- 1 pound=.45359237 Kg and 1 inch=.0254 meters.](https://hiren14.github.io/java_lab_050/readme/practical1/practical1d)  
     <br /><br />
-    <hr />
+    
     <br />
    
  # Practical  2
@@ -24,7 +24,7 @@
 
 -    [g) Write a program that generate 6*6 two-dimensional matrix, filled with 0’s and  1’s , display the matrix, check every raw and column have an odd number’s of  1’s.](https://hiren14.github.io/java_lab_050/readme/practical2/practical2f)
 <br />
-    <hr />
+    
     <br />
 
 # Practical  3
@@ -36,7 +36,10 @@
 -   [e) Consider an example of declaring the examination result. Design three classes: Student, Exam, and Result. The Student class has data memberssuchasthose representingrollnumber,nameetc.Create theclassExambyinheritingtheStudent class.TheExamclassadds fieldsrepresentingthemarksscoredinsixsubjects.Derivethe Result fromtheExamclassandithasitsownfieldssuchastotal_Marks. Writean interactiveprogramtomodelthisrelationship.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3e) <br /><br />
 
     -   [f) Write a program to per form following operations on string “GEC PATAN”                           Reverse thestring                                                                                            Replace character ECwithOV                                                                        Checkwhetherstrings “PAT”and“UNI” present in original string or not Compare this program implementation using String and StringBuffer class  methods.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3f)<br />
+
+    
     <hr />
+
     <br />
 # Practical  4
 

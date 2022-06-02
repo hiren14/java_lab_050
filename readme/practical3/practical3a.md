@@ -7,18 +7,21 @@ Practical 3 a
 ## code 
 
 ```java
-class paractical3a {
+import java.util.Random;
+import java.util.random;
+public class practical12 {
     public static void main(String[] args) {
-        java.util.Random randomNo = new java.util.Random(1000);
- 
-        // displays first 100 random integers between 0 to 49
-        System.out.println(" 100 Random numbers are : ");
-        for (int i = 0; i < 100; i++) {
-            System.out.print(randomNo.nextInt(49) + " ");
+        Random random = new Random(1000);
+        for(int i =0 ; i<100 ; i++)
+        {
+            System.out.format("%5d", random.nextInt(49));
+            if((i+1) %20==0)
+            {
+                System.out.println();
+            }
         }
     }
 }
-
 ```
 
 ## License

@@ -1,12 +1,6 @@
-<h1 align="center" style="margin-top: 0px;">Practical 1 c
-</h1>
-
-# 1. 	c) Write a program that reads a number in meters, converts it to feet, and displays  the result. 	
-
-## code
-```java
+package practical1;
 import java.util.Scanner;
-public class practical1c {
+public class practical01c {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the value of meters ");
@@ -16,6 +10,3 @@ public class practical1c {
     }                        
     
 }
-```
-## License
-[MIT](https://hiren14.github.io/java_lab_050/LICENSE)

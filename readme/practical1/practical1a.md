@@ -15,6 +15,5 @@ public class practical01 {
    }
 }
 ```
-
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)
