@@ -14,9 +14,6 @@ Syntax highlighted code block
 
 # Practical  1
 
-- Bulleted
-- List
-
  	- [a) Write a Program that displays Welcome to Java, Learning Java Now and  Programming is fun.](https://hiren14.github.io/java_lab_050/readme/partical1/practical1a)<br /> <br />
 <<<<<<< HEAD
    - [b) Write a program that solves the following equation and displays the value x and  y: 1) 3.4x+50.2y=44.5 2) 2.1x+.55y=5.9 (Assume Cramer’s rule to solve equation  ax+by=e x=ed-bf/ad-bc cx+dy=f y=af-ec/ad-bc )](https://hiren14.github.io/java_lab_050/readme/partical1/practical1b)	<br /><br />
@@ -29,7 +26,13 @@ Syntax highlighted code block
     - d) Body Mass Index (BMI) is a measure of health on weight. It can be calculated by  taking your weight in kilograms and dividing by the square of your height in  meters. Write a program that prompts the user to enter a weight in pounds and  height in inches and displays the BMI.  
     Note:- 1 pound=.45359237 Kg and 1 inch=.0254 meters.<br /><br />
 >>>>>>> 3d32e9010144a2e02b669782855e6e730398214c
-    
+    <hr />
+    <br />
+    # Practical  2
+
+    [a) Write a program that prompts the user to enter three integers and display the  integers in decreasing order](https://hiren14.github.io/java_lab_050/readme/partical2/practical2a) <br /><br />
+    [b) Write a program that prompts the user to enter a letter and check whether a  letter is a vowel or constant](https://hiren14.github.io/java_lab_050/readme/partical2/practical2b) <br /><br />
+    [c) Assume a vehicle plate number consists of three uppercase letters followed by  four digits. Write a program to generate a plate number.](https://hiren14.github.io/java_lab_050/readme/partical2/practical2c) <br /><br />
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
