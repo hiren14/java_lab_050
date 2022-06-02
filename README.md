@@ -45,22 +45,36 @@
 -    [b) Write the bin2Dec (string binary String) method to convert a binary string into a  decimal number. Implement the bin2Dec method to throw a  NumberFormatException if the string is not a binary string.](https://hiren14.github.io/java_lab_050/readme/practical4/practical4b) <br /><br />
 -    [c) AninterfacePolygoncontainingthemembersasgivenbelow:  float area, floatperimeter voidcalcArea();abstractmethodtocalculateareaofaparticular polygon given  itsdimensions <br />voidcalcPeri();abstractmethodtocalculateperimeterofaparticular polygon given its dimensions voiddisplay();methodtodisplaytheareaandperimeterofthegiven polygon CreateaclassSquarethatimplementsPolygonandhasthefollowing member: floatside  Square(float s); constructor to initialize side of square Create another class Rectangle that implements Polygon and has the following member: • float length, float breadth Rectangle(int len, intbre); constructor toinitialize length and breadth of a rectangleOutsidethepackage, createaclassthatimportsthe abovepackage andinstantiates anobject ofthe Square classand an object ofthe Rectangle class. Call the above methods on each of the classesto calculate the area and perimeter given the side and the length/breadth of  the Square class and the Rectangle class respectively.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3c) <br /><br /><br />
 -   [d) Write a JAVA program that simulates the action ofseveral bank customers whomake depositsto a sharedaccount.Use concept of multithreading andsynchronization. ](https://hiren14.github.io/java_lab_050/readme/practical4/practical4d) <br /><br />
--   [e) Create thread t1 and t2. Set priority of main thread to 10, t1 to normal priority +2 and t2 to normal priority -2.](https://hiren14.github.io/java_lab_050/readme/practical4/practical4e) <br /><br />
-50/readme/practical3/practical3f)
+-   [e) Create thread t1 and t2. Set priority of main thread to 10, t1 to normal priority +2 and t2 to normal priority -2.](https://hiren14.github.io/java_lab_050/readme/practical4/practical4e)
+
+
 <br />
-    <hr />
+   
+ <br />
+50/readme/practical3/practical3f)
+
+<br />
+    
+   <hr />
     
     
    # Practical  5
 
 -   [a) Write a program that displays the color of a circle as red when the mouse button  is pressed and as blue when the mouse button is released.](https://hiren14.github.io/java_lab_050/readme/practical5/practical5a)<br /> <br />
 
-   - [b) Write a program that displays a tic-tac-toe board. A cell may be X, O, or empty.  What to display at each cell is randomly decided. The X and O are images in the  files X.gif and O.gif.](https://hiren14.github.io/java_lab_050/readme/practical5/practical5b)	<br /><br />
-    - [c) Write a program that moves a circle up, down, left or right using arrow keys.](https://hiren14.github.io/java_lab_050/readme/practical5/practical5c)<br /><br />
+   - [b) Write a program that displays a tic-tac-toe board. A cell may be X, O, or empty.  What to display at each cell is randomly decided. The X and O are images in the  files X.gif and O.gif.](https://hiren14.github.io/java_lab_050/readme/practical5/practical5b)	
+   <br />
+   <br />
+    - [c) Write a program that moves a circle up, down, left or right using arrow keys.](https://hiren14.github.io/java_lab_050/readme/practical5/practical5c)
+    <br />
+    <br />
     - [d) Write a program that use button to move the message to the left and right and  use the radio button to change the color for the message displayed. ](https://hiren14.github.io/java_lab_050/readme/practical5/practical5f)  
 
-    <br /><br />
-    <hr />
+<br />
+    
+  <br />
+    
+   <hr />
     
     
    # Practical  6
@@ -71,8 +85,10 @@
     - [ c) Write a generic method that returns the minimum elements in a two  dimensional array. ](https://hiren14.github.io/java_lab_050/readme/practical6/practical6c)<br /><br />
     - [d) Define MYPriorityQueue class that extends Priority Queue to implement the  Cloneable interface and implement the clone() method to clone a priority queue.  ](https://hiren14.github.io/java_lab_050/readme/practical6/practical6f)  
     
-    <br /><br />
-    <hr />
+   <br />
+    
+   <br />
+        <hr />
    
 
 ## error 404 
