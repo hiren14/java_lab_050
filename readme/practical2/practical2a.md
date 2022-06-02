@@ -3,7 +3,7 @@
 
 # 2. 	a) Write a program that prompts the user to enter three integers and display the  integers in decreasing order. 	
 
-## code 
+## Code 
 
 ```java
 import java.util.Scanner;
@@ -35,5 +35,10 @@ public class practical2a{
     }
 }
 ```
+
+# Output 
+
+![p2a](/output/practica2/output2a.png)
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

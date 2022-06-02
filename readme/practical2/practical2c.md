@@ -3,7 +3,8 @@ Practical 2 c
 </h1>
 
 #	2.		c) Assume a vehicle plate number consists of three uppercase letters followed by  four digits. Write a program to generate a plate number. 	
-## code 
+
+## Code 
 
 ```java
 //random number plate generator
@@ -35,6 +36,10 @@ public class practical2c
 }
 
 ```
+
+# Output 
+
+![p1a](/output/practical2/outputp2c.png)
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

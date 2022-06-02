@@ -4,7 +4,7 @@ Practical 2 e
 
 #	2.		e) Write a method with following method header: public static int gcd(int num1, int  num. Write a program that prompts the user to enter two integers and compute  the gcd of two integers. 	
 
-## code 
+## Code 
 
 ```java
 import java.util.Scanner;
@@ -40,6 +40,10 @@ class practical2e
 }
 
 ```
+
+# Output 
+
+![p2e](/output/practical2/output2e.png)
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

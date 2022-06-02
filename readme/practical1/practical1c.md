@@ -3,7 +3,7 @@
 
 # 1. 	c) Write a program that reads a number in meters, converts it to feet, and displays  the result. 	
 
-## code
+## Code
 ```java
 import java.util.Scanner;
 public class practical1c {
@@ -17,5 +17,10 @@ public class practical1c {
     
 }
 ```
+
+# Output 
+
+![p1c](/output/practical1/output1c.png)
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

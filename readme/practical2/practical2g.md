@@ -4,7 +4,7 @@ Practical 2 g
 
 #	2.		g) Write a program that generate 6*6 two-dimensional matrix, filled with 0’s and  1’s , display the matrix, check every raw and column have an odd number’s of  1’s.	 	
 
-## code 
+## Code 
 
 ```java
 public class practical2g {
@@ -56,6 +56,10 @@ public class practical2g {
 }
 
 ```
+
+# Output 
+
+![p1a](/output/practical2/output2g.png)
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)
