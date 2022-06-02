@@ -51,9 +51,7 @@
 <br />
    
  <br />
-50/readme/practical3/practical3f)
 
-<br />
     
    <hr />
     
@@ -86,10 +84,12 @@
     - [d) Define MYPriorityQueue class that extends Priority Queue to implement the  Cloneable interface and implement the clone() method to clone a priority queue.  ](https://hiren14.github.io/java_lab_050/readme/practical6/practical6f)  
     
    <br />
-    
-   <br />
-        <hr />
    
+ <br />
+
+    
+   <hr />
+
 
 ## error 404 
 
