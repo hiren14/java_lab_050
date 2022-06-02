@@ -4,7 +4,7 @@ Practical 3 d
 
 #	3.	d) Write a program that prompts the user to enter a decimal number and displays  the number in a fraction. Hint: Read the decimal number as a string, extract the  integer part and fractional part from the string. 
 
-## code 
+## Code 
 
 ```java
 import java.util.Scanner;
@@ -48,6 +48,10 @@ public class practical3d {
    }
 }
 ```
+# Output 
+
+![p1a](/output/practical3/output3d.png)
+
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

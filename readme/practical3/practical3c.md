@@ -3,7 +3,8 @@ Practical 3 c
 </h1>
 
 #	3.	c) Write a program that creates an Array List and adds a Loan object , a Date object  , a string, and a Circle object to the list, and use a loop to display all elements in the list by invoking the object’s to String() method. 	
-## code 
+
+## Code 
 
 ```java
 import java.util.Scanner;
@@ -61,6 +62,11 @@ class Loan
  }
 }
 ```
+# Output 
+
+![p1a](/output/practical3/output3c.png)
+
+
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

@@ -3,7 +3,8 @@ Practical 2 f
 </h1>
 
 #	2.		f) Write a test program that prompts the user to enter ten numbers, invoke a  method to reverse the numbers, display the numbers. 	
-## code 
+
+## Code 
 
 ```java
 import java.util.Scanner;
@@ -44,6 +45,10 @@ import java.util.Scanner;
  
 
 ```
+
+# Output
+
+![p1a](/output/practical2/output2f.png)
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

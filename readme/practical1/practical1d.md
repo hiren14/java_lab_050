@@ -5,7 +5,7 @@ Practical 1 d
 #	1.	d) Body Mass Index (BMI) is a measure of health on weight. It can be calculated by  taking your weight in kilograms and dividing by the square of your height in  meters. Write a program that prompts the user to enter a weight in pounds and  height in inches and displays the BMI.  
 # Note:- 1 pound=.45359237 Kg and 1 inch=.0254 meters.	
 
-## code
+## Code
 
 ```java
 import java.util.Scanner;
@@ -24,6 +24,11 @@ public class practical1d {
     
 }
 ```
+
+# Output 
+
+![p1d](/output/practical1/output1d.png)
+
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

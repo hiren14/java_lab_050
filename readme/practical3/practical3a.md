@@ -4,7 +4,7 @@ Practical 3 a
 
 #	3. 	a) Write a program that creates a Random object with seed 1000 and displays the  first 100 random integers between 1 and 49 using the NextInt (49) method. 	 	
 
-## code 
+## Code 
 
 ```java
 import java.util.Random;
@@ -23,6 +23,10 @@ public class practical12 {
     }
 }
 ```
+# Output 
+
+![p3a](/output/practical3/output3a.png)
+
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

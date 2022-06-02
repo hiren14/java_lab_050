@@ -5,7 +5,7 @@
 # 1. 	a) Write a Program that displays Welcome to Java, Learning Java Now and  Programming is fun	
 
 
-## code
+## Code
 
 ```java
 public class practical01 {
@@ -15,5 +15,9 @@ public class practical01 {
    }
 }
 ```
+# Output 
+
+![p1a](/output/practical1/output1a.png)
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)
