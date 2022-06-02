@@ -7,10 +7,9 @@
    - [b) Write a program that solves the following equation and displays the value x and  y: 1) 3.4x+50.2y=44.5 2) 2.1x+.55y=5.9 (Assume Cramer’s rule to solve equation  ax+by=e x=ed-bf/ad-bc cx+dy=f y=af-ec/ad-bc )](https://hiren14.github.io/java_lab_050/readme/practical1/practical1b)	<br /><br />
     - [c) Write a program that reads a number in meters, converts it to feet, and displays  the result.](https://hiren14.github.io/java_lab_050/readme/practical1/practical1c)<br /><br />
     - [d) Body Mass Index (BMI) is a measure of health on weight. It can be calculated by  taking your weight in kilograms and dividing by the square of your height in  meters. Write a program that prompts the user to enter a weight in pounds and  height in inches and displays the BMI.Note:- 1 pound=.45359237 Kg and 1 inch=.0254 meters.](https://hiren14.github.io/java_lab_050/readme/practical1/practical1d)  
-    <br /><br />
-    <hr />
     <br />
-   
+    <hr />
+    
  # Practical  2
 
 -    [a) Write a program that prompts the user to enter three integers and display the  integers in decreasing order](https://hiren14.github.io/java_lab_050/readme/practical2/practical2a) <br /><br />
@@ -23,9 +22,9 @@
 -   [f)  Write a test program that prompts the user to enter ten numbers, invoke a  method to reverse the numbers, display the numbers. ](https://hiren14.github.io/java_lab_050/readme/practical2/practical2f)<br /><br />
 
 -    [g) Write a program that generate 6*6 two-dimensional matrix, filled with 0’s and  1’s , display the matrix, check every raw and column have an odd number’s of  1’s.](https://hiren14.github.io/java_lab_050/readme/practical2/practical2f)
+
 <br />
-    <hr />
-    <br />
+<hr />
 
 # Practical  3
 
@@ -36,8 +35,10 @@
 -   [e) Consider an example of declaring the examination result. Design three classes: Student, Exam, and Result. The Student class has data memberssuchasthose representingrollnumber,nameetc.Create theclassExambyinheritingtheStudent class.TheExamclassadds fieldsrepresentingthemarksscoredinsixsubjects.Derivethe Result fromtheExamclassandithasitsownfieldssuchastotal_Marks. Writean interactiveprogramtomodelthisrelationship.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3e) <br /><br />
 
     -   [f) Write a program to per form following operations on string “GEC PATAN”                           Reverse thestring                                                                                            Replace character ECwithOV                                                                        Checkwhetherstrings “PAT”and“UNI” present in original string or not Compare this program implementation using String and StringBuffer class  methods.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3f)<br />
-    <hr />
+    
     <br />
+    <hr />
+    
 # Practical  4
 
 -    [a) Write an interactive program to compute the square root of a number. The input values must be tested for validity. If it is negative then user defined method  MYSQRT() should raise an exception.](https://hiren14.github.io/java_lab_050/readme/practical4/practical4a) <br /><br />
@@ -48,8 +49,9 @@
 50/readme/practical3/practical3f)
 <br />
     <hr />
-    <br />
-    # Practical  5
+    
+    
+   # Practical  5
 
 -   [a) Write a program that displays the color of a circle as red when the mouse button  is pressed and as blue when the mouse button is released.](https://hiren14.github.io/java_lab_050/readme/practical5/practical5a)<br /> <br />
 
@@ -59,7 +61,9 @@
 
     <br /><br />
     <hr />
-    # Practical  6
+    
+    
+   # Practical  6
 
 -   [a) Write a program to create a file name 123.txt, if it does not exist. Append a new  data to it if it already exist. write 150 integers created randomly into the file  using Text I/O. Integers are separated by space. ](https://hiren14.github.io/java_lab_050/readme/practical6/practical6a)<br /> <br />
 
@@ -70,7 +74,6 @@
     <br /><br />
     <hr />
    
-    <br />
 
 ## error 404 
 
