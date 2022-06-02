@@ -10,21 +10,23 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+```
 
-# Header 1
-## Header 2
-### Header 3
+# Practical  1
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
-
+ 	- [a) Write a Program that displays Welcome to Java, Learning Java Now and  Programming is fun.](https://hiren14.github.io/java_lab_050/readme/partical1/practical1a)<br /> <br />
+   - b) Write a program that solves the following equation and displays the value x and  y: 1) 3.4x+50.2y=44.5 2) 2.1x+.55y=5.9 (Assume Cramer’s rule to solve equation  ax+by=e x=ed-bf/ad-bc cx+dy=f y=af-ec/ad-bc )	<br /><br />
+    - c) Write a program that reads a number in meters, converts it to feet, and displays  the result.<br /><br />
+    - d) Body Mass Index (BMI) is a measure of health on weight. It can be calculated by  taking your weight in kilograms and dividing by the square of your height in  meters. Write a program that prompts the user to enter a weight in pounds and  height in inches and displays the BMI.  
+    Note:- 1 pound=.45359237 Kg and 1 inch=.0254 meters.<br /><br />
+    
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
