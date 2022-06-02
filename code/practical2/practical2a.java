@@ -1,11 +1,4 @@
-<h1 align="center" style="margin-top: 0px;">Practical 2 a
-</h1>
-
-# 2. 	a) Write a program that prompts the user to enter three integers and display the  integers in decreasing order. 	
-
-## code 
-
-```java
+package practical2;
 import java.util.Scanner;
 public class practical2a{
     public static void main (String[] args){
@@ -33,7 +26,7 @@ public class practical2a{
 
 
     }
+
+
+
 }
-```
-## License
-[MIT](https://hiren14.github.io/java_lab_050/LICENSE)
