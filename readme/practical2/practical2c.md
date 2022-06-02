@@ -2,7 +2,7 @@
 Practical 2 c 
 </h1>
 
-#		c) Assume a vehicle plate number consists of three uppercase letters followed by  four digits. Write a program to generate a plate number. 	
+#	2.		c) Assume a vehicle plate number consists of three uppercase letters followed by  four digits. Write a program to generate a plate number. 	
 ## code 
 
 ```java

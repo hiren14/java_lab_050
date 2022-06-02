@@ -2,7 +2,7 @@
 Practical 3 d 
 </h1>
 
-#	d) Write a program that prompts the user to enter a decimal number and displays  the number in a fraction. Hint: Read the decimal number as a string, extract the  integer part and fractional part from the string. 
+#	3.	d) Write a program that prompts the user to enter a decimal number and displays  the number in a fraction. Hint: Read the decimal number as a string, extract the  integer part and fractional part from the string. 
 
 ## code 
 

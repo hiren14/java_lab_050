@@ -1,5 +1,6 @@
 <h1 align="center" style="margin-top: 0px;">Practical 1 c
 </h1>
+
 # 1. 	c) Write a program that reads a number in meters, converts it to feet, and displays  the result. 	
 
 ## code

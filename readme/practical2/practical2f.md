@@ -2,7 +2,7 @@
 Practical 2 f 
 </h1>
 
-#		f) Write a test program that prompts the user to enter ten numbers, invoke a  method to reverse the numbers, display the numbers. 	
+#	2.		f) Write a test program that prompts the user to enter ten numbers, invoke a  method to reverse the numbers, display the numbers. 	
 ## code 
 
 ```java

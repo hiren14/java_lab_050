@@ -2,7 +2,7 @@
 Practical 2 b 
 </h1>
 
-#	b) Write a program that prompts the user to enter a letter and check whether a  letter is a vowel or constant. 	
+#	2.	b) Write a program that prompts the user to enter a letter and check whether a  letter is a vowel or constant. 	
 
 ## code 
 
