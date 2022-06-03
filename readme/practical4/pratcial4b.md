@@ -43,5 +43,9 @@ class practical4b
 }
 ```
 
+# Output 
+
+![p1a](https://hiren14.github.io/java_lab_050/output/practical4/output4b.png)
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

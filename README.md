@@ -30,9 +30,6 @@
 
 <br />
     
-    <br />
-    
-    <br />
 <hr />
 
 # Practical  3

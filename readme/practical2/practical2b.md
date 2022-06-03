@@ -30,9 +30,9 @@ public class practical2b
 
 ```
 
+
 # Output 
 
-![p1a](/output/practical2/output2b.png)
-
+![p1a](https://hiren14.github.io/java_lab_050/output/practical2/output2b.png)
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

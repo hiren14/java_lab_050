@@ -43,5 +43,9 @@ public class practical6b {
 }
 ```
 
+# Output 
+
+![p1a](https://hiren14.github.io/java_lab_050/output/practical6/output6b.png)
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

@@ -41,7 +41,7 @@ public class practical2d
 
 # Output 
 
-![p2d](/output/practical2/output2d.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical2/output2d.png)
 
 
 ## License

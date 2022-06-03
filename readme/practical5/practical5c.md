@@ -111,5 +111,9 @@ Application.launch(args);
 }
 ```
 
+# Output 
+
+![p1a](https://hiren14.github.io/java_lab_050/output/practical5/output5c.png)
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

@@ -50,7 +50,7 @@ public class practical3d {
 ```
 # Output 
 
-![p1a](/output/practical3/output3d.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical3/output3d.png)
 
 
 ## License

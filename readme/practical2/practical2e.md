@@ -43,7 +43,7 @@ class practical2e
 
 # Output 
 
-![p2e](/output/practical2/output2e.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical2/output2e.png)
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

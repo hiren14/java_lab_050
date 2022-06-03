@@ -27,7 +27,7 @@ public class practical1d {
 
 # Output 
 
-![p1d](/output/practical1/output1d.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical1/output1d.png)
 
 
 ## License
