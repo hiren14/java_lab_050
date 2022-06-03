@@ -3,7 +3,7 @@ title: java lab manual gecp 050
 description: lab manual of oop -j  gtu .
 show_downloads: true
 buttons:
-  zip_url: https://hiren14.github.io/java_lab_050/
+ another_url: another value https://hiren14.github.io/java_lab_050/
   zip_title: main menu
   zip_hide: false
   tar_hide: true
