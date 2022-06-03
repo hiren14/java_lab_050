@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
 title: java lab manual gecp 050
 description: lab manual of oop -j  gtu .
-show_downloads: false
+show_downloads: true
 buttons:
-   zip_title: main menu
   zip_url: https://hiren14.github.io/java_lab_050/
+  zip_title: main menu
   zip_hide: false
   tar_hide: true
