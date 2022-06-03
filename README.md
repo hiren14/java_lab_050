@@ -14,7 +14,7 @@
     
 <hr />
     
- # Practical  2
+# Practical  2
 
 -    [a) Write a program that prompts the user to enter three integers and display the  integers in decreasing order](https://hiren14.github.io/java_lab_050/readme/practical2/practical2a) <br /><br />
 -    [b) Write a program that prompts the user to enter a letter and check whether a  letter is a vowel or constant](https://hiren14.github.io/java_lab_050/readme/practical2/practical2b) <br /><br />
