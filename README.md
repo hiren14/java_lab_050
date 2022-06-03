@@ -8,12 +8,11 @@
     - [c) Write a program that reads a number in meters, converts it to feet, and displays  the result.](https://hiren14.github.io/java_lab_050/readme/practical1/practical1c)<br /><br />
     - [d) Body Mass Index (BMI) is a measure of health on weight. It can be calculated by  taking your weight in kilograms and dividing by the square of your height in  meters. Write a program that prompts the user to enter a weight in pounds and  height in inches and displays the BMI.Note:- 1 pound=.45359237 Kg and 1 inch=.0254 meters.](https://hiren14.github.io/java_lab_050/readme/practical1/practical1d)  
 
-    <br />
+ <br />
     
-    <br />
+<br />
     
-    <br />
-    <hr />
+<hr />
     
  # Practical  2
 
@@ -85,7 +84,7 @@
    <hr />
     
     
- # Practical  6
+# Practical  6
 
 -   [a) Write a program to create a file name 123.txt, if it does not exist. Append a new  data to it if it already exist. write 150 integers created randomly into the file  using Text I/O. Integers are separated by space. ](https://hiren14.github.io/java_lab_050/readme/practical6/practical6a)<br /> <br />
 
