@@ -42,6 +42,10 @@ class practical4b
  }
 }
 ```
+# Output 
+
+![p3a](/output/practical3/output4b.png)
+
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

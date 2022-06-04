@@ -8,10 +8,18 @@
     - [c) Write a program that reads a number in meters, converts it to feet, and displays  the result.](https://hiren14.github.io/java_lab_050/readme/practical1/practical1c)<br /><br />
     - [d) Body Mass Index (BMI) is a measure of health on weight. It can be calculated by  taking your weight in kilograms and dividing by the square of your height in  meters. Write a program that prompts the user to enter a weight in pounds and  height in inches and displays the BMI.Note:- 1 pound=.45359237 Kg and 1 inch=.0254 meters.](https://hiren14.github.io/java_lab_050/readme/practical1/practical1d)  
 <<<<<<< HEAD
+<<<<<<< HEAD
     <br /><br />
     
 =======
 >>>>>>> 5a7a6d1350fa9d612fc7fe9481375d070829d53f
+=======
+
+    <br />
+    
+    <br />
+    
+>>>>>>> d0e1e5c23630e26015cc084d3579f5a238cf52a2
     <br />
     <hr />
     
@@ -29,30 +37,25 @@
 -    [g) Write a program that generate 6*6 two-dimensional matrix, filled with 0’s and  1’s , display the matrix, check every raw and column have an odd number’s of  1’s.](https://hiren14.github.io/java_lab_050/readme/practical2/practical2f)
 
 <br />
-<<<<<<< HEAD
     
     <br />
 =======
 <hr />
->>>>>>> 5a7a6d1350fa9d612fc7fe9481375d070829d53f
+    <br />
+<hr />
 
 # Practical  3
 
--    [a) Write a program that prompts the user to enter three integers and display the  integers in decreasing order](https://hiren14.github.io/java_lab_050/readme/practical3/practical3a) <br /><br />
--    [b) Write a program that prompts the user to enter a letter and check whether a  letter is a vowel or constant](https://hiren14.github.io/java_lab_050/readme/practical3/practical3b) <br /><br />
--    [c) Assume a vehicle plate number consists of three uppercase letters followed by  four digits. Write a program to generate a plate number.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3c) <br /><br /><br />
+-    [a) a) Write a program that creates a Random object with seed 1000 and displays the first 100 random integers between 1 and 49 using the NextInt (49) method.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3a) <br /><br />
+-    [b) Write a program for calculator to accept an expression as a string in which the operands and operator are separated by zero or more spaces. For ex: 3+4 and 3+ 4 are acceptable expressions.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3b) <br /><br />
+-    [c) c) Write a program that creates an Array List and adds a Loan object , a Date object  , a string, and a Circle object to the list, and use a loop to display all elements in the list by invoking the object’s to String() method. ](https://hiren14.github.io/java_lab_050/readme/practical3/practical3c) <br /><br /><br />
 -   [d) Write a program that prompts the user to enter a decimal number and displays  the number in a fraction. Hint: Read the decimal number as a string, extract the  integer part and fractional part from the string. ](https://hiren14.github.io/java_lab_050/readme/practical3/practical3d) <br /><br />
 -   [e) Consider an example of declaring the examination result. Design three classes: Student, Exam, and Result. The Student class has data memberssuchasthose representingrollnumber,nameetc.Create theclassExambyinheritingtheStudent class.TheExamclassadds fieldsrepresentingthemarksscoredinsixsubjects.Derivethe Result fromtheExamclassandithasitsownfieldssuchastotal_Marks. Writean interactiveprogramtomodelthisrelationship.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3e) <br /><br />
 
     -   [f) Write a program to per form following operations on string “GEC PATAN”                           Reverse thestring                                                                                            Replace character ECwithOV                                                                        Checkwhetherstrings “PAT”and“UNI” present in original string or not Compare this program implementation using String and StringBuffer class  methods.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3f)<br />
-<<<<<<< HEAD
-
     
     <hr />
 
-=======
-    
->>>>>>> 5a7a6d1350fa9d612fc7fe9481375d070829d53f
     <br />
     <hr />
     
@@ -91,7 +94,8 @@
     
    <hr />
     
-# Practical  6
+    
+ # Practical  6
 
 -   [a) Write a program to create a file name 123.txt, if it does not exist. Append a new  data to it if it already exist. write 150 integers created randomly into the file  using Text I/O. Integers are separated by space. ](https://hiren14.github.io/java_lab_050/readme/practical6/practical6a)<br /> <br />
 
@@ -112,7 +116,8 @@
 it said that file will update in this weekdays 
 <br />
 <hr />
-### Support or Contact
+
+## Support or Contact
 [@hiren14](https://github.com/hiren14/)
 <br />
    <hr />
