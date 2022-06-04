@@ -99,5 +99,9 @@ class Solution{
 
 ![p3a](/output/practical3/output4c.png)
 
+# Output 
+
+![p1a](https://hiren14.github.io/java_lab_050/output/practical4/output4c.png)
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

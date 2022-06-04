@@ -199,5 +199,9 @@ primaryStage.show(); // Display the stage
 }
 ```
 
+# Output 
+
+![p1a](https://hiren14.github.io/java_lab_050/output/practical5/output5d.png)
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

@@ -20,7 +20,7 @@ public class practical1c {
 
 # Output 
 
-![p1c](/output/practical1/output1c.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical1/output1c.png)
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

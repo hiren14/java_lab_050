@@ -23,9 +23,10 @@ public class practical12 {
     }
 }
 ```
+
 # Output 
 
-![p3a](/output/practical3/output3a.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical3/output3a.png)
 
 
 ## License

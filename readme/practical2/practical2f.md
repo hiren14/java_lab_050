@@ -46,9 +46,9 @@ import java.util.Scanner;
 
 ```
 
-# Output
+# Output 
 
-![p1a](/output/practical2/output2f.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical2/output2f.png)
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

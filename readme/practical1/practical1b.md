@@ -37,7 +37,7 @@ public class practical01b {
 
 # Output 
 
-![p1b](/output/practical1/output1b.png)
+![p1b](https://hiren14.github.io/java_lab_050/output/practical1/output1b.png))
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

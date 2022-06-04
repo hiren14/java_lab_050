@@ -1,3 +1,50 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="https://hiren14.github.io/java_lab_050/">Home <span class="sr-only">(current)</span></a>
+      </li>
+      
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Partical 1
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://hiren14.github.io/java_lab_050/readme/practical1/practical1a">Partical1a</a>
+          <a class="dropdown-item" href="https://hiren14.github.io/java_lab_050/readme/practical1/practical1b">Partical1b</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="https://hiren14.github.io/java_lab_050/readme/practical1/practical1c"> Partical 1c </a>
+<a class="dropdown-item" href="https://hiren14.github.io/java_lab_050/readme/practical1/practical1d"> Partical 1d </a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Partical 2       </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://hiren14.github.io/java_lab_050/readme/practical2/practical2a">Partical2a</a>
+          <a class="dropdown-item" href="https://hiren14.github.io/java_lab_050/readme/practical1/practical1b">Partical2b</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="https://hiren14.github.io/java_lab_050/readme/practical2/practical2c"> Partical 2c </a>
+<a class="dropdown-item" href="https://hiren14.github.io/java_lab_050/readme/practical2/practical2d"> Partical 2d </a>
+        </div>
+      </li>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>
+
+
+
 ## java lab manual OF 200220131050
 
 # Practical  1
@@ -7,23 +54,13 @@
    - [b) Write a program that solves the following equation and displays the value x and  y: 1) 3.4x+50.2y=44.5 2) 2.1x+.55y=5.9 (Assume Cramer’s rule to solve equation  ax+by=e x=ed-bf/ad-bc cx+dy=f y=af-ec/ad-bc )](https://hiren14.github.io/java_lab_050/readme/practical1/practical1b)	<br /><br />
     - [c) Write a program that reads a number in meters, converts it to feet, and displays  the result.](https://hiren14.github.io/java_lab_050/readme/practical1/practical1c)<br /><br />
     - [d) Body Mass Index (BMI) is a measure of health on weight. It can be calculated by  taking your weight in kilograms and dividing by the square of your height in  meters. Write a program that prompts the user to enter a weight in pounds and  height in inches and displays the BMI.Note:- 1 pound=.45359237 Kg and 1 inch=.0254 meters.](https://hiren14.github.io/java_lab_050/readme/practical1/practical1d)  
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <br /><br />
-    
-=======
->>>>>>> 5a7a6d1350fa9d612fc7fe9481375d070829d53f
-=======
 
-    <br />
     
-    <br />
+<br />
     
->>>>>>> d0e1e5c23630e26015cc084d3579f5a238cf52a2
-    <br />
-    <hr />
+<hr />
     
- # Practical  2
+# Practical  2
 
 -    [a) Write a program that prompts the user to enter three integers and display the  integers in decreasing order](https://hiren14.github.io/java_lab_050/readme/practical2/practical2a) <br /><br />
 -    [b) Write a program that prompts the user to enter a letter and check whether a  letter is a vowel or constant](https://hiren14.github.io/java_lab_050/readme/practical2/practical2b) <br /><br />
@@ -38,10 +75,6 @@
 
 <br />
     
-    <br />
-=======
-<hr />
-    <br />
 <hr />
 
 # Practical  3
@@ -52,12 +85,13 @@
 -   [d) Write a program that prompts the user to enter a decimal number and displays  the number in a fraction. Hint: Read the decimal number as a string, extract the  integer part and fractional part from the string. ](https://hiren14.github.io/java_lab_050/readme/practical3/practical3d) <br /><br />
 -   [e) Consider an example of declaring the examination result. Design three classes: Student, Exam, and Result. The Student class has data memberssuchasthose representingrollnumber,nameetc.Create theclassExambyinheritingtheStudent class.TheExamclassadds fieldsrepresentingthemarksscoredinsixsubjects.Derivethe Result fromtheExamclassandithasitsownfieldssuchastotal_Marks. Writean interactiveprogramtomodelthisrelationship.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3e) <br /><br />
 
-    -   [f) Write a program to per form following operations on string “GEC PATAN”                           Reverse thestring                                                                                            Replace character ECwithOV                                                                        Checkwhetherstrings “PAT”and“UNI” present in original string or not Compare this program implementation using String and StringBuffer class  methods.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3f)<br />
+  -   [f) Write a program to per form following operations on string “GEC PATAN”                           Reverse thestring                                                                                            Replace character ECwithOV                                                                        Checkwhetherstrings “PAT”and“UNI” present in original string or not Compare this program implementation using String and StringBuffer class  methods.](https://hiren14.github.io/java_lab_050/readme/practical3/practical3f)
+   
+<br />
     
-    <hr />
 
-    <br />
-    <hr />
+<br />
+<hr />
     
 # Practical  4
 
@@ -95,7 +129,7 @@
    <hr />
     
     
- # Practical  6
+# Practical  6
 
 -   [a) Write a program to create a file name 123.txt, if it does not exist. Append a new  data to it if it already exist. write 150 integers created randomly into the file  using Text I/O. Integers are separated by space. ](https://hiren14.github.io/java_lab_050/readme/practical6/practical6a)<br /> <br />
 

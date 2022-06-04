@@ -37,5 +37,9 @@ public class MyPriorityQueue<E> extends PriorityQueue<E> implements Cloneable {
 }
 ```
 
+# Output 
+
+![p1a](https://hiren14.github.io/java_lab_050/output/practical6/output6d.png)
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

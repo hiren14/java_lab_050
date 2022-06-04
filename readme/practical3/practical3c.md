@@ -62,11 +62,10 @@ class Loan
  }
 }
 ```
+
 # Output 
 
-![p1a](/output/practical3/output3c.png)
-
-
+![p1a](https://hiren14.github.io/java_lab_050/output/practical3/output3c.png)
 
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)

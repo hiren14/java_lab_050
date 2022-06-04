@@ -38,5 +38,9 @@ public class practical5a extends Application
 }
 ```
 
+# Output 
+
+![p1a](https://hiren14.github.io/java_lab_050/output/practical5/output5a.png)
+
 ## License
 [MIT](https://hiren14.github.io/java_lab_050/LICENSE)
