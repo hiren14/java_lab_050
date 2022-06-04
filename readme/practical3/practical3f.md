@@ -13,7 +13,7 @@ Practical 3 f
 ## Code 
 
 ```java
-public class partical3f {
+public class practical3f {
 public static void main(String[] args) {
     String test = "GEC PATAN",rev="";
     char c;

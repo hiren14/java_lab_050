@@ -1,14 +1,5 @@
-<h1 align="center" style="margin-top: 0px;">
-Practical 3 e 
-</h1>
-
-#	3. 	e) Consider an example of declaring the examination result. Design three classes: Student, Exam, and Result. The Student class has data memberssuchasthose representingrollnumber,nameetc.Create theclassExambyinheritingtheStudent class.TheExamclassadds fieldsrepresentingthemarksscoredinsixsubjects.Derivethe Result fromtheExamclassandithasitsownfieldssuchastotal_Marks. Writean interactiveprogramtomodelthisrelationship. 	 	
-
-## Code 
-
-```java
+package practical3;
 import java.util.Scanner;
-
 public class practical3e {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -63,12 +54,3 @@ class Result extends Exam{
     }
     
 }
-```
-# Output 
-
-
-![p1a](https://hiren14.github.io/java_lab_050/output/practical3/output3e.png)
-
-
-## License
-[MIT](https://hiren14.github.io/java_lab_050/LICENSE)

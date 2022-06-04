@@ -1,13 +1,6 @@
-<h1 align="center" style="margin-top: 0px;">
-Practical 4 a 
-</h1>
-
-#	4. 	a) Write an interactive program to compute the square root of a number. The input values must be tested for validity. If it is negative then user defined method MYSQRT() should raise an exception
-
-## Code 
-```java
+package practical4;
 import java.util.Scanner;
-public class partical4a {
+public class practical4a {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         SqureRoot n= new SqureRoot();
@@ -16,7 +9,7 @@ public class partical4a {
         try{
             System.out.println("The Squre Root : "+n.mySqrt());
         }catch(NegativeValue e){
-            System.out.println(e);
+            System.out.println("negative value" + e);
         }
 
     }
@@ -36,11 +29,3 @@ class SqureRoot{
 class NegativeValue extends Exception{
       
 }
-```
-# Output 
-
-![p1a](https://hiren14.github.io/java_lab_050/output/practical4/output4a.png)
-
-
-## License
-[MIT](https://hiren14.github.io/java_lab_050/LICENSE)

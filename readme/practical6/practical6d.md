@@ -15,8 +15,16 @@ public class MyPriorityQueue<E> extends PriorityQueue<E> implements Cloneable {
         return temp;
     }
 }
- 
- public class practical6d {
+```
+both flies should save differnt in same package
+<br />
+<br />
+<hr />
+
+
+
+ ```java
+  public class practical6d {
     public static void main(String[] args) throws CloneNotSupportedException {
         MyPriorityQueue<Integer> q1 = new MyPriorityQueue<>();
         q1.offer(10);
