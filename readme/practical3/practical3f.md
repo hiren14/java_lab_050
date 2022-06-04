@@ -32,10 +32,12 @@ public static void main(String[] args) {
     System.out.println(test.contains("UNI"));
 }
     
-}```
+}
+```
 # Output 
 
-![p3a](/output/practical3/output3f.png)
+
+![p1a](https://hiren14.github.io/java_lab_050/output/practical3/output3f.png)
 
 
 ## License

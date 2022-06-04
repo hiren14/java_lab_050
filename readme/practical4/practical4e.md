@@ -47,7 +47,8 @@ System.out.println("Name : "+Thread.currentThread().getName()+"The priority: "+T
 ```
 # Output 
 
-![p3a](/output/practical3/output4e.png)
+
+![p1a](https://hiren14.github.io/java_lab_050/output/practical4/output4e.png)
 
 
 ## License

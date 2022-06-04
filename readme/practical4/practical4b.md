@@ -42,9 +42,6 @@ class practical4b
  }
 }
 ```
-# Output 
-
-![p3a](/output/practical3/output4b.png)
 
 
 # Output 

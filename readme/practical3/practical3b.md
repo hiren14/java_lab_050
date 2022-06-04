@@ -7,6 +7,7 @@ Practical 3 b
 ## Code 
 
 ```java
+
 import java.util.Scanner;
 public class practical3b {
     public static void main(String[] args) {
@@ -14,45 +15,71 @@ public class practical3b {
         System.out.println("Enter your expression:");
         String test=sc.nextLine();
         String exp=test.replaceAll(" ","");
+
         System.out.println("The Expression: "+exp);
+        
         int i=0;
+        
         int count=0;
+        
         for(int j=0;j<exp.length();j++){
+        
             if(exp.charAt(j)>41 && exp.charAt(j)<48)
-                count++;
+        
+            count++;
+        
         }
-        if(count>1 || count==0){
+        
+        if(count>1 || count==0)
+        {
+            
             System.out.println("Enter a valid expression !");
         }
-        else if(exp.charAt(0)>41 && exp.charAt(0)<48){
+        else if(exp.charAt(0)>41 && exp.charAt(0)<48)
+        {
             System.out.println("Enter valid expression !");
-        }else if(exp.charAt(exp.length()-1)>41 && exp.charAt(exp.length()-1)<48){
-            System.out.println("Enter valid expression !");
-        }else{
+        }
+        else if(exp.charAt(exp.length()-1)>41 && exp.charAt(exp.length()-1)<48){
+        
+        System.out.println("Enter valid expression !");
+        }
+        else
+        {
           
-        while(exp.charAt(i)!='+' && exp.charAt(i)!='-'&&  exp.charAt(i)!='*' && exp.charAt(i)!='/'){
-            i++;
+        while(exp.charAt(i)!='+' && exp.charAt(i)!='-'&&  exp.charAt(i)!='*' && exp.charAt(i)!='/')
+        {
+        i++;
         }
         switch(exp.charAt(i)){
             case '+':
             System.out.println("The result: "+((Integer.parseInt(exp.substring(0,i))+(Integer.parseInt(exp.substring(i+1,exp.length()))))));
-            break;
-            case '-':
-            System.out.println("The result: "+((Integer.parseInt(exp.substring(0,i))-(Integer.parseInt(exp.substring(i+1,exp.length()))))));
-            break;
-            case '*':
+         
+         break;
+         
+         case '-':
+         
+         System.out.println("The result: "+((Integer.parseInt(exp.substring(0,i))-(Integer.parseInt(exp.substring(i+1,exp.length()))))));
+         
+         break;
+        
+        case '*':
             System.out.println("The result: "+((Integer.parseInt(exp.substring(0,i))*(Integer.parseInt(exp.substring(i+1,exp.length()))))));
-            break;
-            case '/':
+        
+        break;
+        
+        case '/':
             System.out.println("The result: "+((Float.parseFloat(exp.substring(0,i))/(Float.parseFloat(exp.substring(i+1,exp.length()))))));
-            break;
+        
+        break;
+        
         }
         }
     }
-}```
+}
+```
 # Output 
 
-![p3a](/output/practical3/output3b.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical3/output3b.png)
 
 
 ## License

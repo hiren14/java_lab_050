@@ -62,10 +62,12 @@ class Result extends Exam{
         return total;
     }
     
-}```
+}
+```
 # Output 
 
-![p3a](/output/practical3/output3e.png)
+
+![p1a](https://hiren14.github.io/java_lab_050/output/practical3/output3e.png)
 
 
 ## License

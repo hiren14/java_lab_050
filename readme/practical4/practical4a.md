@@ -39,7 +39,7 @@ class NegativeValue extends Exception{
 ```
 # Output 
 
-![p3a](/output/practical3/output4a.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical4/output4a.png)
 
 
 ## License
