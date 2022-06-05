@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-top: 0px;"> Practical 6 d </h1> 
+<h1 align="center" style="margin-top: 0px;"> Practical 6 e </h1> 
 
 # 6.    e) Write a program that reads words from a text file and displays all the  nonduplicate words in descending order. The text file is passed as a command line argument. 	
 
