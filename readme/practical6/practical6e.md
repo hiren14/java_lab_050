@@ -35,7 +35,7 @@ class Practical_25 {
 
 # Output 
 
-![p1a](https://hiren14.github.io/java_lab_050/output/practical6/output6e.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical6/output6e.jpg)
 
 
 ## License
