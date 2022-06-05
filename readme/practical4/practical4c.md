@@ -3,16 +3,25 @@ Practical 4 c
 </h1>
 
 #	4. 	c) AninterfacePolygoncontainingthemembersasgivenbelow:  
-- Bulleted
-• float area, floatperimeter 
-• voidcalcArea();abstractmethodtocalculateareaofaparticular polygon given  itsdimensions 
-• voidcalcPeri();abstractmethodtocalculateperimeterofaparticular 
-• polygon given its dimensions 
-• voiddisplay();
-methodtodisplaytheareaandperimeterofthegiven polygon CreateaclassSquarethatimplementsPolygonandhasthefollowing member: • floatside 
-• Square(float s); constructor to initialize side of square 
-Create another class Rectangle that implements Polygon and has the following member: • float length, float breadth 
-• Rectangle(int len, intbre); constructor toinitialize length and breadth of a rectangle Outsidethepackage, createaclassthatimportsthe abovepackage andinstantiates anobject ofthe Square class and an object ofthe Rectangle class. Call the above methods on each of the classesto calculate the area and perimeter given the side and the length/breadth of  the Square class and the Rectangle class respectively.
+
+-   • float area, floatperimeter 
+-   • voidcalcArea();abstract method to calculate area of a particular polygon given  its dimensions <br/>
+<br/>
+-   • voidcalcPeri();abstract method to calculate perimeter of aparticular <br/>
+<br/>
+-   • polygon given its dimensions<br /> 
+-   • voiddisplay();
+method to display theare a and perimeter of the given polygon Create a classSquare that implements Polygon and has the following member: <br/>
+-   • floatside 
+-   • Square(float s);<br/>
+<br/>
+-    constructor to initialize side of square 
+Create another class Rectangle that implements Polygon and has the following member:
+<br/>
+<br/>
+- • float length, float breadth <br/>
+<br/>
+• Rectangle(int len, intbre); constructor toinitialize length and breadth of a rectangle Outside the package, create a class that imports the above package and instantiates an object of the Square class and an object of the Rectangle class. Call the above methods on each of the classes to calculate the area and perimeter given the side and the length/breadth of  the Square class and the Rectangle class respectively.
 
 ## code 
 
