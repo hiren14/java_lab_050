@@ -80,7 +80,7 @@ b1.withdraw(1000);
 # Output 
 
 
-![p1a](https://hiren14.github.io/java_lab_050/output/practical4/output4d.png)
+![p1a](https://hiren14.github.io/java_lab_050/output/practical4/output4d.jpg)
 
 
 ## License
